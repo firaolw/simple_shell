@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef  _MAIN_H_
+#define  _MAIN_H_
 
 #include <stdio.h>
 #include <unistd.h>
@@ -230,4 +230,4 @@ void aux_help_cd(void);
 /* get_help.c */
 int get_help(data_shell *datash);
 
-#endif /* MAIN_H */
+#endif
